@@ -7,3 +7,6 @@ mean(x)
 
 # added this comment
 mode(x)
+
+# added by Yogi
+summary(Yogi)
