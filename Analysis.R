@@ -5,3 +5,5 @@ summary(x)
 median(x)
 mean(x)
 
+# added this comment
+mode(x)
